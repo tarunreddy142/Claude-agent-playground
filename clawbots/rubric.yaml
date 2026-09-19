@@ -1,0 +1,8 @@
+clarity:
+  description: Is the problem and goal stated in language anyone on the team could act on?
+completeness:
+  description: Are scope, success metrics, and target all resolved rather than left open?
+feasibility:
+  description: Is there enough here for engineering to size the work?
+measurability:
+  description: Does the PRD define a concrete, checkable success metric?
