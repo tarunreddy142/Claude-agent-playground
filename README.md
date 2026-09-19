@@ -28,8 +28,8 @@ not a framework, just three agents and the plumbing between them.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/clawbots.git
-cd clawbots
+git clone https://github.com/tarunreddy142/Claude-agent-playground.git
+cd Claude-agent-playground
 python -m venv .venv && source .venv/bin/activate   # .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 cp .env.example .env   # then add your own ANTHROPIC_API_KEY
